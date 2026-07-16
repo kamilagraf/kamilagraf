@@ -24,7 +24,7 @@
 ## Where to find me
 
 -  💼   [linkedIn](https://www.linkedin.com/in/kamilagraf) 
--  👾   [my site](https://dev-graf-.vercel.app)
+-  👾   [my site](https://dev-graf.vercel.app)
 
 
 
